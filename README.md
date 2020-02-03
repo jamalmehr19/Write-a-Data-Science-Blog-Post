@@ -28,7 +28,7 @@ This project contains the jupyter notebook as the working envirnment for data cl
 
 ---
 ## Results
-The major findings of the analysis are published here.
+The major findings of the analysis are published [here](https://medium.com/@jtaghavimehr16/is-canada-a-country-with-consistent-job-market-for-developers-a-closer-look-into-data-science-12d615dbfbf0).
 
 ---
 ## Licensing, Authors, and Acknowledgements
